@@ -18,6 +18,8 @@ https://hub.docker.com/repository/docker/ed138/custom-nginx/general
 <img width="1236" height="1015" alt="Задание 3 11 " src="https://github.com/user-attachments/assets/04eb4b01-21bf-494f-8aa0-e3ba324ae15a" />
 
 
+Задача 4
+<img width="1846" height="992" alt="image" src="https://github.com/user-attachments/assets/54e8aa02-6bb3-46a7-bcbc-c6ef78eadc72" />
 
 
 
