@@ -29,5 +29,14 @@ https://hub.docker.com/repository/docker/ed138/custom-nginx/general
 <img width="1563" height="380" alt="image" src="https://github.com/user-attachments/assets/93d1371b-251f-4132-8f25-455b1ead0582" />
 
 <img width="1468" height="540" alt="image" src="https://github.com/user-attachments/assets/abad477e-9f5a-4cdc-9d6a-9c468699cb4a" />
+<img width="1686" height="909" alt="image" src="https://github.com/user-attachments/assets/31c24951-a858-4d77-9b8c-5d1fe7cdfa89" />
+<img width="1903" height="898" alt="image" src="https://github.com/user-attachments/assets/6637c5c2-72a5-4247-aa1a-396e3e9fa8f5" />
+<img width="1866" height="851" alt="image" src="https://github.com/user-attachments/assets/ac0fe975-6ba1-40f1-be40-46623f1d76d1" />
+<img width="1904" height="755" alt="image" src="https://github.com/user-attachments/assets/c50d35d2-030d-4b5d-9681-2fa5d2dc0e43" />
+<img width="1788" height="907" alt="image" src="https://github.com/user-attachments/assets/b52ab057-9d22-4674-b1d4-88c197deefea" />
+<img width="875" height="505" alt="image" src="https://github.com/user-attachments/assets/30e13bff-173b-450a-848c-1115bcc23b61" />
+Ошибка указывает на то, что существуют контейнеры, которые не соответствуют текущему составу docker-compose.yaml.
+
+<img width="1846" height="353" alt="image" src="https://github.com/user-attachments/assets/04c77228-34ae-4880-b8e7-b6e9f994352a" />
 
 
