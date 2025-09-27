@@ -7,6 +7,16 @@
 <img width="1364" height="725" alt="Установка Docker 5 " src="https://github.com/user-attachments/assets/5faddd5f-c9bc-4bc8-9592-376208486b9b" />
 https://hub.docker.com/repository/docker/ed138/custom-nginx/general
 
+Задача 2
+<img width="1366" height="707" alt="Задание 2" src="https://github.com/user-attachments/assets/d006a1c1-168b-4e6d-9bae-2cac9581d9d0" />
+
+Задача 3
+<img width="1415" height="1011" alt="Задание 3 1" src="https://github.com/user-attachments/assets/80188bfb-a615-48b7-913a-a25163f8619e" />
+<img width="1203" height="1008" alt="Задание 3 2 Настройка сети etc docker daemon json " src="https://github.com/user-attachments/assets/73559d20-81cb-4d85-84fd-c75de38b0b0c" />
+<img width="1695" height="1079" alt="Задание 3 3 " src="https://github.com/user-attachments/assets/87ed4134-a396-4a95-9c44-95fa3b8cbd54" />
+<img width="822" height="108" alt="Задание 3 3 1 " src="https://github.com/user-attachments/assets/975a7c8b-4a88-4553-94e2-dc0718a9310e" />
+<img width="1236" height="1015" alt="Задание 3 11 " src="https://github.com/user-attachments/assets/04eb4b01-21bf-494f-8aa0-e3ba324ae15a" />
+
 
 
 
