@@ -22,4 +22,12 @@ https://hub.docker.com/repository/docker/ed138/custom-nginx/general
 <img width="1846" height="992" alt="image" src="https://github.com/user-attachments/assets/54e8aa02-6bb3-46a7-bcbc-c6ef78eadc72" />
 
 
+Задача 5
+<img width="1894" height="1024" alt="image" src="https://github.com/user-attachments/assets/14e28523-e587-4211-9381-91c692fa7267" />
+Изменяем compose.yaml
+<img width="1285" height="350" alt="image" src="https://github.com/user-attachments/assets/379c6dee-264f-4f02-919e-c84da20d3f1e" />
+<img width="1563" height="380" alt="image" src="https://github.com/user-attachments/assets/93d1371b-251f-4132-8f25-455b1ead0582" />
+
+<img width="1468" height="540" alt="image" src="https://github.com/user-attachments/assets/abad477e-9f5a-4cdc-9d6a-9c468699cb4a" />
+
 
